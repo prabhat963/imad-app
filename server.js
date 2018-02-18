@@ -32,7 +32,7 @@ var template=`
         
     </head>
     <body>
-        <div class="container">
+        <div >
         <div>
         </div>    
         <h3>
