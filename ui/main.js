@@ -27,7 +27,7 @@ var button = document.getElementById('counter');
      
  };
 //Submit Name
-var nameInput = document.getElementById('name1');
+var nameInput = document.getElementById('name5');
 var name = nameInput.value;
 var submit = document.getElementById('submit_btn');
 submit.onclick = function() {
