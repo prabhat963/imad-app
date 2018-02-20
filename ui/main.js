@@ -15,7 +15,7 @@ var button = document.getElementById('counter');
                  {
                     var counter = request.responseText;
                      var span = document.getElementById('count');
-                     span.innerHtml = counter.toString();
+                     span.innerHTML = counter.toString();
                 }
          }
          //Make the request
